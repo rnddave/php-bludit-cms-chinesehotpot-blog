@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"head":"&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;\r\n&lt;script async src=&quot;https:\/\/www.googletagmanager.com\/gtag\/js?id=G-HH1Z60HZ5C&quot;&gt;&lt;\/script&gt;\r\n&lt;script&gt;\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'G-HH1Z60HZ5C');\r\n&lt;\/script&gt;","header":"","footer":"","adminHead":"","adminHeader":"","adminFooter":"","position":1}
