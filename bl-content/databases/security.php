@@ -1,2 +1,2 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"minutesBlocked":5,"numberFailuresAllowed":10,"blackList":{"5.188.62.214":{"lastFailure":1643751784,"numberFailures":2},"5.188.62.140":{"lastFailure":1643936255,"numberFailures":2}}}
+{"minutesBlocked":5,"numberFailuresAllowed":10,"blackList":{"5.188.62.214":{"lastFailure":1649650714,"numberFailures":2},"5.188.62.140":{"lastFailure":1652763025,"numberFailures":2},"5.188.62.21":{"lastFailure":1652571297,"numberFailures":2},"5.188.62.76":{"lastFailure":1653469794,"numberFailures":2}}}
